@@ -45,7 +45,8 @@ h1 {
 .blog-post {
     margin: 10px;
     background-color: white;
-    border: gray;
+    border-style: solid;
+    border-color : blue;
     border-radius: 15px;
     padding: 10px;
 }

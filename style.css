@@ -39,7 +39,17 @@ h1 {
     background-color: blueviolet;
     min-height: 500px;
     margin: 20 0px;
+    color: white;
     
 }
-
-
+.blog-post {
+    margin: 10px;
+    background-color: white;
+    border: gray;
+    border: round;
+    padding: 10px;
+}
+.image {
+    float: left;
+    margin: 10px;
+}

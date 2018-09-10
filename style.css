@@ -46,7 +46,7 @@ h1 {
     margin: 10px;
     background-color: white;
     border: gray;
-    border: round;
+    border-radius: 15px;
     padding: 10px;
 }
 .image {
